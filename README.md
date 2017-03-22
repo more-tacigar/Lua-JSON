@@ -1,11 +1,6 @@
-# Lua-json is a simple JSON parser written in Lua.
+# Lua-JSON - JSON Decoder writte in Lua. - #
 
-Lua-jsonはLuaで書かれたシンプルなJSONパーサです。  
-JSONファイルを読み込んでLuaのテーブル構造に落とし込みます。  
-
-## 使い方
-
-パスの通った場所に置いて`require`して`parse`するだけです。  
+こいついつもJSONパーサー書いてんな。
 
 ```lua
 local Json = require("json")
